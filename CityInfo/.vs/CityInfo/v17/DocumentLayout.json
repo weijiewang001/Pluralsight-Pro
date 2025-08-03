@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\wayne\\desktop\\pluralsight pro\\pluralsight-pro\\cityinfo\\cityinfo.api\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\wayne\\desktop\\pluralsight pro\\pluralsight-pro\\cityinfo\\cityinfo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\Controllers\\CitiesController.cs",
+              "RelativeDocumentMoniker": "CityInfo.API\\Controllers\\CitiesController.cs",
+              "ToolTip": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\Controllers\\CitiesController.cs",
+              "RelativeToolTip": "CityInfo.API\\Controllers\\CitiesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T07:36:40.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\Program.cs",
               "RelativeDocumentMoniker": "CityInfo.API\\Program.cs",
               "ToolTip": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\Program.cs",
               "RelativeToolTip": "CityInfo.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-03T02:43:07.815Z",
               "EditorCaption": ""
