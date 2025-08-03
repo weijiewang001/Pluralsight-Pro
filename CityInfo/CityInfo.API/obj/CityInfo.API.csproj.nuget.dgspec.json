@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\CityInfo\\CityInfo.API\\CityInfo.API.csproj": {}
+    "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\CityInfo.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\CityInfo\\CityInfo.API\\CityInfo.API.csproj": {
+    "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\CityInfo.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
+        "projectUniqueName": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
         "projectName": "CityInfo.API",
-        "projectPath": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
+        "projectPath": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
         "packagesPath": "C:\\Users\\Wayne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\CityInfo\\CityInfo.API\\obj\\",
+        "outputPath": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
