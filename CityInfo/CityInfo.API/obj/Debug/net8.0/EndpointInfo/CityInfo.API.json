@@ -37,6 +37,22 @@
                     "$ref": "#/components/schemas/CityDto"
                   }
                 }
+              },
+              "application/xml": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/CityDto"
+                  }
+                }
+              },
+              "text/xml": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/CityDto"
+                  }
+                }
               }
             }
           }
@@ -74,6 +90,16 @@
                 }
               },
               "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CityDto"
+                }
+              },
+              "application/xml": {
+                "schema": {
+                  "$ref": "#/components/schemas/CityDto"
+                }
+              },
+              "text/xml": {
                 "schema": {
                   "$ref": "#/components/schemas/CityDto"
                 }
@@ -126,6 +152,22 @@
                     "$ref": "#/components/schemas/PointOfInterestDto"
                   }
                 }
+              },
+              "application/xml": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/PointOfInterestDto"
+                  }
+                }
+              },
+              "text/xml": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/PointOfInterestDto"
+                  }
+                }
               }
             }
           }
@@ -172,6 +214,16 @@
                 }
               },
               "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PointOfInterestDto"
+                }
+              },
+              "application/xml": {
+                "schema": {
+                  "$ref": "#/components/schemas/PointOfInterestDto"
+                }
+              },
+              "text/xml": {
                 "schema": {
                   "$ref": "#/components/schemas/PointOfInterestDto"
                 }
