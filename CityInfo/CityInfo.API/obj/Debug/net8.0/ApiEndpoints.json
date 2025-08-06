@@ -143,6 +143,32 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "CityInfo.API.Controllers.PointsOfInterestController",
+    "Method": "PartiallyUpdatePointOfInterest",
+    "RelativePath": "api/cities/{cityId}/pointsofinterest/{pointofinterestid}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cityId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pointOfInterestId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "patchDocument",
+        "Type": "Microsoft.AspNetCore.JsonPatch.Operations.Operation[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CityInfo.API.Controllers.CitiesController",
     "Method": "GetCity",
     "RelativePath": "api/cities/{id}",
