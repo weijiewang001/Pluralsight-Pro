@@ -75,8 +75,7 @@
               "RelativeToolTip": "CityInfo.API\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-05T12:08:57.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T12:08:57.795Z"
             },
             {
               "$type": "Document",
@@ -86,7 +85,7 @@
               "RelativeDocumentMoniker": "CityInfo.API\\Controllers\\PointsOfInterestController.cs",
               "ToolTip": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\Controllers\\PointsOfInterestController.cs",
               "RelativeToolTip": "CityInfo.API\\Controllers\\PointsOfInterestController.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAYwIgAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAqwI8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-03T14:51:04.943Z",
               "EditorCaption": ""
@@ -101,8 +100,7 @@
               "RelativeToolTip": "CityInfo.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T02:43:07.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T02:43:07.815Z"
             },
             {
               "$type": "Document",
@@ -114,8 +112,7 @@
               "RelativeToolTip": "CityInfo.API\\Models\\PointOfInterestForUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T12:21:04.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T12:21:04.463Z"
             },
             {
               "$type": "Document",
@@ -127,8 +124,7 @@
               "RelativeToolTip": "CityInfo.API\\Models\\PointOfInterestForCreationDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T12:36:57.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T12:36:57.38Z"
             },
             {
               "$type": "Document",
@@ -139,8 +135,7 @@
               "ToolTip": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
               "RelativeToolTip": "CityInfo.API\\CityInfo.API.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-05T12:09:02.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T12:09:02.756Z"
             },
             {
               "$type": "Document",
@@ -152,8 +147,7 @@
               "RelativeToolTip": "CityInfo.API\\CitiesDataStore.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAwwCcAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T10:29:56.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T10:29:56.981Z"
             },
             {
               "$type": "Document",
@@ -165,8 +159,7 @@
               "RelativeToolTip": "CityInfo.API\\Controllers\\CitiesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T07:36:40.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T07:36:40.665Z"
             },
             {
               "$type": "Document",
@@ -178,8 +171,7 @@
               "RelativeToolTip": "CityInfo.API\\CityInfo.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-04T15:02:00.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T15:02:00.252Z"
             }
           ]
         }

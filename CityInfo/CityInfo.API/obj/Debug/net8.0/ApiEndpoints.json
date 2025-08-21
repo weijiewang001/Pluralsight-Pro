@@ -169,6 +169,27 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "CityInfo.API.Controllers.PointsOfInterestController",
+    "Method": "DeletePointOfInterest",
+    "RelativePath": "api/cities/{cityId}/pointsofinterest/{pointOfInterestId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cityId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pointOfInterestId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CityInfo.API.Controllers.CitiesController",
     "Method": "GetCity",
     "RelativePath": "api/cities/{id}",
