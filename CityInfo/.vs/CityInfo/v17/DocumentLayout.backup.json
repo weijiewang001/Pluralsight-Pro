@@ -3,28 +3,51 @@
   "WorkspaceRootPath": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\wayne\\desktop\\pluralsight pro\\pluralsight-pro\\cityinfo\\cityinfo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\wayne\\desktop\\pluralsight pro\\pluralsight-pro\\cityinfo\\cityinfo.api\\controllers\\pointsofinterestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\controllers\\pointsofinterestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\wayne\\desktop\\pluralsight pro\\pluralsight-pro\\cityinfo\\cityinfo.api\\services\\cloudmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\services\\cloudmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\wayne\\desktop\\pluralsight pro\\pluralsight-pro\\cityinfo\\cityinfo.api\\services\\localmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\services\\localmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\wayne\\desktop\\pluralsight pro\\pluralsight-pro\\cityinfo\\cityinfo.api\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\wayne\\desktop\\pluralsight pro\\pluralsight-pro\\cityinfo\\cityinfo.api\\cityinfo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\cityinfo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Wayne\\AppData\\Local\\SourceServer\\aeee1494968ddb823f791f0430e74e4550f4310df23ac78f2fbf09e5d5ca05ee\\CityInfo\\CityInfo.API\\Services\\LocalMailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\wayne\\desktop\\pluralsight pro\\pluralsight-pro\\cityinfo\\cityinfo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\wayne\\desktop\\pluralsight pro\\pluralsight-pro\\cityinfo\\cityinfo.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\wayne\\desktop\\pluralsight pro\\pluralsight-pro\\cityinfo\\cityinfo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\wayne\\desktop\\pluralsight pro\\pluralsight-pro\\cityinfo\\cityinfo.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\wayne\\desktop\\pluralsight pro\\pluralsight-pro\\cityinfo\\cityinfo.api\\controllers\\pointsofinterestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\controllers\\pointsofinterestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\wayne\\desktop\\pluralsight pro\\pluralsight-pro\\cityinfo\\cityinfo.api\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\wayne\\desktop\\pluralsight pro\\pluralsight-pro\\cityinfo\\cityinfo.api\\citiesdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\citiesdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\wayne\\desktop\\pluralsight pro\\pluralsight-pro\\cityinfo\\cityinfo.api\\services\\localmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\services\\localmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\wayne\\desktop\\pluralsight pro\\pluralsight-pro\\cityinfo\\cityinfo.api\\models\\pointofinterestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,20 +62,8 @@
       "RelativeMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\models\\pointofinterestforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\wayne\\desktop\\pluralsight pro\\pluralsight-pro\\cityinfo\\cityinfo.api\\citiesdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\citiesdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\wayne\\desktop\\pluralsight pro\\pluralsight-pro\\cityinfo\\cityinfo.api\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\wayne\\desktop\\pluralsight pro\\pluralsight-pro\\cityinfo\\cityinfo.api\\cityinfo.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\cityinfo.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\wayne\\desktop\\pluralsight pro\\pluralsight-pro\\cityinfo\\cityinfo.api\\cityinfo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EB770568-A354-4970-A78D-8A6F892728D0}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\cityinfo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,46 +77,98 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LocalMailService.cs",
+              "DocumentMoniker": "C:\\Users\\Wayne\\AppData\\Local\\SourceServer\\aeee1494968ddb823f791f0430e74e4550f4310df23ac78f2fbf09e5d5ca05ee\\CityInfo\\CityInfo.API\\Services\\LocalMailService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\aeee1494968ddb823f791f0430e74e4550f4310df23ac78f2fbf09e5d5ca05ee\\CityInfo\\CityInfo.API\\Services\\LocalMailService.cs",
+              "ToolTip": "C:\\Users\\Wayne\\AppData\\Local\\SourceServer\\aeee1494968ddb823f791f0430e74e4550f4310df23ac78f2fbf09e5d5ca05ee\\CityInfo\\CityInfo.API\\Services\\LocalMailService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\aeee1494968ddb823f791f0430e74e4550f4310df23ac78f2fbf09e5d5ca05ee\\CityInfo\\CityInfo.API\\Services\\LocalMailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T07:20:32.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\Program.cs",
+              "RelativeDocumentMoniker": "CityInfo.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\Program.cs",
+              "RelativeToolTip": "CityInfo.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T02:43:07.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CitiesDataStore.cs",
+              "DocumentMoniker": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\CitiesDataStore.cs",
+              "RelativeDocumentMoniker": "CityInfo.API\\CitiesDataStore.cs",
+              "ToolTip": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\CitiesDataStore.cs",
+              "RelativeToolTip": "CityInfo.API\\CitiesDataStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T10:29:56.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "CityInfo.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
+              "RelativeDocumentMoniker": "CityInfo.API\\CityInfo.API.csproj",
+              "ToolTip": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
+              "RelativeToolTip": "CityInfo.API\\CityInfo.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-04T15:02:00.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\Controllers\\CitiesController.cs",
+              "RelativeDocumentMoniker": "CityInfo.API\\Controllers\\CitiesController.cs",
+              "ToolTip": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\Controllers\\CitiesController.cs",
+              "RelativeToolTip": "CityInfo.API\\Controllers\\CitiesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T07:36:40.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "CloudMailService.cs",
               "DocumentMoniker": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\Services\\CloudMailService.cs",
               "RelativeDocumentMoniker": "CityInfo.API\\Services\\CloudMailService.cs",
               "ToolTip": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\Services\\CloudMailService.cs*",
               "RelativeToolTip": "CityInfo.API\\Services\\CloudMailService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-21T06:38:11.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LocalMailService.cs",
-              "DocumentMoniker": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\Services\\LocalMailService.cs",
-              "RelativeDocumentMoniker": "CityInfo.API\\Services\\LocalMailService.cs",
-              "ToolTip": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\Services\\LocalMailService.cs",
-              "RelativeToolTip": "CityInfo.API\\Services\\LocalMailService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "PointsOfInterestController.cs",
+              "DocumentMoniker": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\Controllers\\PointsOfInterestController.cs",
+              "RelativeDocumentMoniker": "CityInfo.API\\Controllers\\PointsOfInterestController.cs",
+              "ToolTip": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\Controllers\\PointsOfInterestController.cs",
+              "RelativeToolTip": "CityInfo.API\\Controllers\\PointsOfInterestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T06:13:07.155Z",
+              "WhenOpened": "2025-08-03T14:51:04.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "CityInfo.API\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\appsettings.Development.json",
-              "RelativeToolTip": "CityInfo.API\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-20T12:58:26.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "CityInfo.API\\Properties\\launchSettings.json",
@@ -118,33 +181,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PointsOfInterestController.cs",
-              "DocumentMoniker": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\Controllers\\PointsOfInterestController.cs",
-              "RelativeDocumentMoniker": "CityInfo.API\\Controllers\\PointsOfInterestController.cs",
-              "ToolTip": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\Controllers\\PointsOfInterestController.cs*",
-              "RelativeToolTip": "CityInfo.API\\Controllers\\PointsOfInterestController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T14:51:04.943Z",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CityInfo.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\appsettings.json",
+              "RelativeToolTip": "CityInfo.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-22T07:15:44.65Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\Program.cs",
-              "RelativeDocumentMoniker": "CityInfo.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\Program.cs",
-              "RelativeToolTip": "CityInfo.API\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAAC4AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T02:43:07.815Z",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CityInfo.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\appsettings.Development.json",
+              "RelativeToolTip": "CityInfo.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-20T12:58:26.611Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "CityInfo.API\\Controllers\\FilesController.cs",
+              "ToolTip": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "CityInfo.API\\Controllers\\FilesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T06:56:52.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LocalMailService.cs",
+              "DocumentMoniker": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\Services\\LocalMailService.cs",
+              "RelativeDocumentMoniker": "CityInfo.API\\Services\\LocalMailService.cs",
+              "ToolTip": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\Services\\LocalMailService.cs",
+              "RelativeToolTip": "CityInfo.API\\Services\\LocalMailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T06:13:07.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "PointOfInterestDto.cs",
               "DocumentMoniker": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\Models\\PointOfInterestDto.cs",
               "RelativeDocumentMoniker": "CityInfo.API\\Models\\PointOfInterestDto.cs",
@@ -157,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "PointOfInterestForUpdateDto.cs",
               "DocumentMoniker": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\Models\\PointOfInterestForUpdateDto.cs",
               "RelativeDocumentMoniker": "CityInfo.API\\Models\\PointOfInterestForUpdateDto.cs",
@@ -170,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "PointOfInterestForCreationDto.cs",
               "DocumentMoniker": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\Models\\PointOfInterestForCreationDto.cs",
               "RelativeDocumentMoniker": "CityInfo.API\\Models\\PointOfInterestForCreationDto.cs",
@@ -183,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "CityInfo.API",
               "DocumentMoniker": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
               "RelativeDocumentMoniker": "CityInfo.API\\CityInfo.API.csproj",
@@ -191,45 +280,6 @@
               "RelativeToolTip": "CityInfo.API\\CityInfo.API.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-08-05T12:09:02.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CitiesDataStore.cs",
-              "DocumentMoniker": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\CitiesDataStore.cs",
-              "RelativeDocumentMoniker": "CityInfo.API\\CitiesDataStore.cs",
-              "ToolTip": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\CitiesDataStore.cs",
-              "RelativeToolTip": "CityInfo.API\\CitiesDataStore.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAwwCcAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T10:29:56.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CitiesController.cs",
-              "DocumentMoniker": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\Controllers\\CitiesController.cs",
-              "RelativeDocumentMoniker": "CityInfo.API\\Controllers\\CitiesController.cs",
-              "ToolTip": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\Controllers\\CitiesController.cs",
-              "RelativeToolTip": "CityInfo.API\\Controllers\\CitiesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T07:36:40.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CityInfo.API.csproj",
-              "DocumentMoniker": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
-              "RelativeDocumentMoniker": "CityInfo.API\\CityInfo.API.csproj",
-              "ToolTip": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
-              "RelativeToolTip": "CityInfo.API\\CityInfo.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-04T15:02:00.252Z",
               "EditorCaption": ""
             }
           ]
