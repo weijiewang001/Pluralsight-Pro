@@ -102,3 +102,4 @@ C:\Users\Wayne\Desktop\Pluralsight pro\Pluralsight-Pro\CityInfo\CityInfo.API\bin
 C:\Users\Wayne\Desktop\Pluralsight pro\Pluralsight-Pro\CityInfo\CityInfo.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
 C:\Users\Wayne\Desktop\Pluralsight pro\Pluralsight-Pro\CityInfo\CityInfo.API\bin\Debug\net8.0\System.Text.Json.dll
 C:\Users\Wayne\Desktop\Pluralsight pro\Pluralsight-Pro\CityInfo\CityInfo.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Wayne\Desktop\Pluralsight pro\Pluralsight-Pro\CityInfo\CityInfo.API\bin\Debug\net8.0\appsettings.production.json
