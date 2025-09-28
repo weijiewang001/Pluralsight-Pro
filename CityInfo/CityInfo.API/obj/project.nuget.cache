@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "0Elj3lIHb8g=",
+  "dgSpecHash": "MXOaa2BExLs=",
   "success": true,
   "projectFilePath": "C:\\Users\\Wayne\\Desktop\\Pluralsight pro\\Pluralsight-Pro\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Wayne\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Wayne\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\Wayne\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Wayne\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\9.0.8\\microsoft.aspnetcore.jsonpatch.9.0.8.nupkg.sha512",
     "C:\\Users\\Wayne\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\8.0.1\\microsoft.aspnetcore.mvc.newtonsoftjson.8.0.1.nupkg.sha512",

@@ -1,4 +1,4 @@
-﻿using CityInfo.API.Controllers.Models;
+﻿using CityInfo.API.Models;
 
 namespace CityInfo.API
 {

@@ -45,7 +45,7 @@ namespace CityInfo.API.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "PointsOfInterests",
+                name: "PointsOfInterest",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "INTEGER", nullable: false)
@@ -71,7 +71,7 @@ namespace CityInfo.API.Migrations
 
             migrationBuilder.CreateIndex(
                 name: "IX_PointsOfInterests_CityId",
-                table: "PointsOfInterests",
+                table: "PointsOfInterest",
                 column: "CityId");
         }
 
@@ -82,7 +82,7 @@ namespace CityInfo.API.Migrations
                 name: "PointOfInterestDto");
 
             migrationBuilder.DropTable(
-                name: "PointsOfInterests");
+                name: "PointsOfInterest");
 
             migrationBuilder.DropTable(
                 name: "Cities");
