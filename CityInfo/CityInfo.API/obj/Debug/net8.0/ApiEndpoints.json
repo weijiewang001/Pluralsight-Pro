@@ -51,6 +51,39 @@
   },
   {
     "ContainingType": "CityInfo.API.Controllers.PointsOfInterestController",
+    "Method": "CreatePointOfInterest",
+    "RelativePath": "api/cities/{cityId}/pointsofinterest",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cityId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pointOfInterest",
+        "Type": "CityInfo.API.Models.PointOfInterestForCreationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CityInfo.API.Models.PointOfInterestDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json",
+          "application/xml",
+          "text/xml"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CityInfo.API.Controllers.PointsOfInterestController",
     "Method": "GetPointOfInterest",
     "RelativePath": "api/cities/{cityId}/pointsofinterest/{pointofinterestid}",
     "HttpMethod": "GET",
